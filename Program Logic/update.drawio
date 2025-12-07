@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.1.2">
+  <diagram name="Page-1" id="edDNaOHI6CMp1PqdkWIX">
+    <mxGraphModel dx="1665" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-1" value="Long Term Investments" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="259" y="30" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-2" value="Short Term Investments" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="395" y="80" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-4" target="mg-A6lz9ItGwOx1VMKyi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-4" value="User (Inputs Ticker)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-5" value="Yahoo&amp;nbsp;&lt;div&gt;Finance&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.25" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-6" target="mg-A6lz9ItGwOx1VMKyi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;fillColorStyles=fillColor2,fillColor3;fillColor2=#032d60;fillColor3=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284.25" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-8" value="Output" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.alert;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="39" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-3" target="mg-A6lz9ItGwOx1VMKyi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;entryX=0.496;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-8" target="mg-A6lz9ItGwOx1VMKyi-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="275" />
+              <mxPoint x="420" y="275" />
+              <mxPoint x="420" y="246" />
+              <mxPoint x="400" y="246" />
+              <mxPoint x="400" y="275" />
+              <mxPoint x="314" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-13" value="Delivarables" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199.25" y="390" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-14" value="Summarised Financial News" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-13">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-16" value="Company research and Industry" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-13">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-17" value="Delivarables" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-18" value="Valuation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-17">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-19" value="Dividend Yield" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-17">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-20" value="Alert message (User to do external research)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-17">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=50;exitPerimeter=0;entryX=0.309;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-8" target="mg-A6lz9ItGwOx1VMKyi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="195" width="31" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-44" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="395.75" y="585" width="18.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-46" target="mg-A6lz9ItGwOx1VMKyi-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-46" value="User (Inputs Ticker)&lt;div&gt;OR&amp;nbsp;&lt;/div&gt;&lt;div&gt;Auto Generate&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="570" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-47" value="Yahoo&amp;nbsp;&lt;div&gt;Finance&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="675" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-49" target="mg-A6lz9ItGwOx1VMKyi-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-49" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;fillColorStyles=fillColor2,fillColor3;fillColor2=#032d60;fillColor3=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="805" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-50" value="Output" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="510.75" y="815" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-51" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.alert;" vertex="1" parent="1">
+          <mxGeometry x="200.75" y="715" width="39" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-44" target="mg-A6lz9ItGwOx1VMKyi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;entryX=0.496;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-50" target="mg-A6lz9ItGwOx1VMKyi-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550.75" y="780" />
+              <mxPoint x="420.75" y="780" />
+              <mxPoint x="420.75" y="751" />
+              <mxPoint x="400.75" y="751" />
+              <mxPoint x="400.75" y="780" />
+              <mxPoint x="314.75" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-54" value="Delivarables" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="895" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-55" value="Industry simplified news" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-54">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-56" value="Send emails with the signals" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-54">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-57" value="Suggest a possible market direction based on the news.&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-54">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-74" value="Manage the investing risk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-54">
+          <mxGeometry y="120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-58" value="Delivarables" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.75" y="895" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-59" value="Signals" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-58">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-60" value="Valuation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mg-A6lz9ItGwOx1VMKyi-58">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=50;exitPerimeter=0;entryX=0.309;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mg-A6lz9ItGwOx1VMKyi-50" target="mg-A6lz9ItGwOx1VMKyi-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="470.75" y="700" width="31" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;With this AI agent set the period of the graph to 1year in order to get a broader overview of the company for the long term.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="75" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-66" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-67" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-68" value="Process an Alert Message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="195" width="101" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-69" value="Process an Alert Message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="704.75" width="101" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-70" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-71" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mg-A6lz9ItGwOx1VMKyi-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;With this AI agent set the period of the graph to 3 months in order to get a minimized overview of the company for the short term.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="595" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,25 @@
+//Investment Bot Application
+
+//Frontend
+-Check which option was selected (Long term || Short term) {use an IF Statement for this}
+-Check IF the dividend yield checkbox was checked {if(True) => *go to the backend and also consider dividend yield*}
+-onClick event for the news refresh button {toggle the backend to fetch latest news related to the specific industry}
+-onClick search {pass the ticker to the backend code to find the information}
+-display backend chart information after info has been found as well as the RSI and Valuation
+
+//Backend
+{API NEEDED: 
+	1. News Search API
+	2. Yahoo Finance API
+	3. WhatsApp API
+	3. FireCrawl (For coding the AI Agents)
+	4. OpenAI GPT (API key)
+}
+
+-create a constructor to retrieve the TICKER and if the dividend checkbox is checked
+-create a reload function for when the (refresh) button is clicked
+-store users in a database (for user validation and management)
+-retrieve 100 different JSE tickers from a CSV file or Database(When the GENERATE button is clicked in the FRONTEND)
+
+//UPDATES TO THE BACKEND
+-Prompt the Bot to only send signals when the signal traces ≥ 10% below (for buys) or ≥ 10% above (for sells) intrinsic value.
