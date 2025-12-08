@@ -1,8 +1,10 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 from Anomalies import Anomalies
 import pandas as pd
 
 app = Flask(__name__)
+cors = CORS(app, origins='*')
 
 @app.route('/api/stock/<ticker>')
 def get_stock_data(ticker):
